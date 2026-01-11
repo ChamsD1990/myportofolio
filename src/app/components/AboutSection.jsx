@@ -36,7 +36,7 @@ const AboutSection = () => {
       id: "experience",
       content: (
         <ul className="list-none pl-2">
-          <li>0.6 years as Software Developer at PT Altera Cipta Technology</li>
+          <li>1.3 years as Software Developer at PT Altera Cipta Technology</li>
           <li>1.7 years as IT Support Data Engineer (vendor of PT Sampoerna Tbk)</li>
           <li>2.2 years as a Teacher in Informatics Engineering</li>
         </ul>
