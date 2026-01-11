@@ -3,10 +3,10 @@ import ProjectCards from "./ProjectCard";
 import ProjectTag from "./ProjectTag";
 
 const projectData = [
-  { id: 1, title: "Company Portal", description: "Company Portal for Bengkel Sinergi Teknik Company", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Web"] },
-  { id: 2, title: "My Portofolio", description: "My website for portofolio", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Web"] },
-  { id: 3, title: "Attendance School", description: "Application for attendance rule student daily school", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Mobile"] },
-  { id: 4, title: "Raport Elementary School", description: "pplication for create reporting student", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Mobile"] },
+  { id: 1, title: "Company Portal", url:"", description: "Company Portal for Bengkel Sinergi Teknik Company", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Web"] },
+  { id: 2, title: "My Portofolio", url:"", description: "My website for portofolio", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Web"] },
+  { id: 3, title: "Attendance School", url:"", description: "Application for attendance rule student daily school", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Mobile"] },
+  { id: 4, title: "Raport Elementary School", url:"", description: "pplication for create reporting student", image: "/project/BengkelSinergiteknik.png", tag: ["All", "Mobile"] },
 ];
 
 const ProjectSection = () => {

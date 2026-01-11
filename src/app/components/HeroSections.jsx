@@ -53,12 +53,12 @@ const HeroSection = () => {
               text-white hover:bg-slate-200 transition">
                             Hire Me
                         </button>
-                        <button className="px-1 py-1 w-[200px] h-[50px] rounded-full bg-transparent 
+                        <a href="https://drive.google.com/file/d/1eTJOq9Rf12kYE1lCc_zDkYwVyFx67uqw/view?usp=drive_link" className="px-1 py-1 w-[200px] h-[50px] rounded-full bg-transparent 
               hover:bg-slate-800 text-white border border-white transition">
                             <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                                 Download CV
                             </span>
-                        </button>
+                        </a>
                     </div>
                 </div>
 
